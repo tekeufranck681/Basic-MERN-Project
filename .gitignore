@@ -7,4 +7,3 @@ logs/
 .vscode/
 logs/
 coverage/
-package-lock.json
